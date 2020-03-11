@@ -3,7 +3,7 @@ const express = require('express');
 const app = express();
 
 app.get('/', function(req, res){
-    res.send("sou burro");
+    res.sendFile(__dirname + "/html/Test CSS.html");
 });
 
 app.get('/escola/:instituicao/:professor/:disciplina/', function(req, res){
