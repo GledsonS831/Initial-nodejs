@@ -8,6 +8,7 @@
 
  - [x] Comunicação Node
  - [x] Juntar CSS no html
+ - [ ] Config CSS
  
 ## Types of commits accepted
  *Start with the word feat (feature).*
