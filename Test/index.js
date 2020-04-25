@@ -2,6 +2,9 @@ const express = require('express');
 
 const app = express();
 
+
 app.get('/', function(req, res){
     res.json(__dirname + "/html/page.html");
 });
+
+app.listen(3333);
