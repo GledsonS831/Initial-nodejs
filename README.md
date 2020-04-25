@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="https://github.com/GledsonS831/Initial-nodejs/blob/master/assets/image.jpeg?raw=true"\>
-<p>
 
-*Estudando a aplicabilidade de html, css e nodejs*
+<h1>Estudando a aplicabilidade de html, css e nodejs</h1>
 
 ## Tasks Done
 
