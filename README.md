@@ -1,7 +1,7 @@
 
 <h1 align="center">Implementation Javascript</h1>
  
- *Implementation of image transition with javascript*
+ *Implementations with javascript*
 ## Types of commits accepted
  *Start with the word feat (feature).*
  - feat: `:sparkles:` new file created
